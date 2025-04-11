@@ -5,7 +5,7 @@ proxy:
     env: dev
     stack: proxy-server
   image:
-    repository: bsubash2054/nginx-reverse-proxy``
+    repository: subashniraula6/proxy
     tag: latest
     pullPolicy: Always
   replicas: 2
